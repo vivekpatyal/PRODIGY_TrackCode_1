@@ -1,4 +1,4 @@
-*Secure User Authentication using Spring Boot*
+*Secure User Authentication using Spring Security 6
 
 This project implements robust user authentication using Spring Boot's security framework, ensuring the confidentiality, integrity, and availability of user data.
 
